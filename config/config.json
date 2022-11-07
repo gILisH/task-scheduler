@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "scheduler",
+    "host": "localhost",
+    "dialect": "mysql",
+    "port": 3306
+  },
+  "remote": {
+    "username": "admin",
+    "password": "abcd1234",
+    "database": "scheduler",
+    "host": "tasksdb.cqnjb3v6bmih.us-east-1.rds.amazonaws.com",
+    "dialect": "mysql",
+    "port": 3306
+  }
+}
